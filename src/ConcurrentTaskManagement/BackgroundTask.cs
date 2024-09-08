@@ -1,7 +1,7 @@
 ﻿using System.Collections.Concurrent;
-using CTM.Data;
+using Concurrency.ConcurrentTaskManagement.Data;
 
-namespace CTM;
+namespace Concurrency.ConcurrentTaskManagement;
 
 public sealed class BackgroundTask(
     ILogger<BackgroundTask> logger,

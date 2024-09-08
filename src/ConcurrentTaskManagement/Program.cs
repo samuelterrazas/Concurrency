@@ -1,5 +1,5 @@
-using CTM;
-using CTM.Data;
+using Concurrency.ConcurrentTaskManagement;
+using Concurrency.ConcurrentTaskManagement.Data;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 {

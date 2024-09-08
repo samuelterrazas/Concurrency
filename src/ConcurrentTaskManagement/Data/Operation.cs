@@ -1,4 +1,4 @@
-﻿namespace CTM.Data;
+﻿namespace Concurrency.ConcurrentTaskManagement.Data;
 
 public sealed class Operation
 {
